@@ -1,0 +1,1 @@
+# KR_M02_DV01_singleton-state
